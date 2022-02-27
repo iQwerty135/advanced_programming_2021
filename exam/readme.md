@@ -1,12 +1,6 @@
 ## Advanced Programming Exam 2021-22
 
-### Deadline
-
-The deadline for this project is **February 18, 2022**, at midnight. 21--23: oral sessions!
-
-### How to submit
-
-Fork the repository, then push on the master branch of the fork. I will not accept any other form (e.g., you send me a tar.gz). I will check just the master branch. 
+Repository di Irene Baravelli
 
 ### A pool of blazingly fast stacks
 
