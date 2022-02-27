@@ -1,7 +1,5 @@
 ## Advanced Programming Exam 2021-22
 
-Repository di Irene Baravelli
-
 ### A pool of blazingly fast stacks
 
 In this project, you must write a pool for fast stacks. The pool stores each node in a `std::vector<node_t>`. The "address" of a node is `1+idx`, where `idx` is the index where the node is stored in the vector. This trick allows us to use address `0` as `end`, so we can use unsigned integers type. The first node stored in the vector will be put at `idx == 0`, but it will be referenced as `1`.
